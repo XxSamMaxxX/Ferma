@@ -8,7 +8,7 @@ HEIGHT = 600
 
 YELLOW = (255, 255, 0)
 LIGHT_BLUE = (0, 255, 255)
-#стас лох
+#стас лохwqfwqfwqfwqfwqf
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
 
