@@ -1,17 +1,17 @@
 import pygame
 import sys
 import random
-#press F to this code
+
 pygame.init()
 WIDTH = 1920
 HEIGHT = 600
-#press F to this code
+
 YELLOW = (255, 255, 0)
 LIGHT_BLUE = (0, 255, 255)
-#DFSD
+#стас лох
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
-#misha solevoe ybozhest
+
 class Cube:
     def __init__(self, x, y, width, height, velocity):
         self.x = x
