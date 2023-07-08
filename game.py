@@ -12,7 +12,7 @@ LIGHT_BLUE = (0, 255, 255)
 #fwefewfewfwefew
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
-
+#misha loxey
 class Cube:
     def __init__(self, x, y, width, height, velocity):
         self.x = x
