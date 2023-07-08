@@ -5,13 +5,13 @@ import random
 pygame.init()
 WIDTH = 1920
 HEIGHT = 600
-#press F to this code
+
 YELLOW = (255, 255, 0)
 LIGHT_BLUE = (0, 255, 255)
-#DFSD
+
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
-#misha solevoe ybozhestvo i lox
+
 class Cube:
     def __init__(self, x, y, width, height, velocity):
         self.x = x
