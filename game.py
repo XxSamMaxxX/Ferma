@@ -11,7 +11,7 @@ LIGHT_BLUE = (0, 255, 255)
 #DFSD
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
-#misha solevoe ybozhest
+#misha solevoe ybozhestvo i lox
 class Cube:
     def __init__(self, x, y, width, height, velocity):
         self.x = x
