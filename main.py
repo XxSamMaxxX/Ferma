@@ -23,7 +23,7 @@ while True:
         player.speed = 5
         
 
-
+#миша плохой саппорт.
         
     for event in p.event.get():
         if event.type == p.QUIT:
