@@ -1,7 +1,7 @@
 import pygame as p
 from obj.player.script.player import*
 from obj.car.script.car import*
-
+#васяЛОХ
 
 #obj
 
