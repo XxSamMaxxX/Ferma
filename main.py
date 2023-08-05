@@ -5,7 +5,7 @@ from config import*
 p.init()
 
 
-
+#fewfefefewewfewfew
 
 while True:
     screen.fill(WHITE)
