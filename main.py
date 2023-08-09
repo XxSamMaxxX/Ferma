@@ -6,6 +6,8 @@ p.init()
 
 
 #fewfefefewewfewfew
+#Кущ Даня
+
 
 while True:
     screen.fill(WHITE)
