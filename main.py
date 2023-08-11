@@ -4,7 +4,7 @@ from config import*
 
 p.init()
 
-
+#рената
 #fewfefefewewfewfew
 #Кущ Даня
 
