@@ -7,6 +7,10 @@ p.init()
 #рената
 #fewfefefewewfewfew
 #Кущ Даня
+#тима
+
+
+#васягей
 
 
 while True:
